@@ -1,4 +1,5 @@
 # -*- coding:UTF-8 -*-
+# 3.6.1
 # py3 doesn't have has_key function
 class TwoSum:
     def solve(self, arr, num):

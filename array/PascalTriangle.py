@@ -1,5 +1,5 @@
 # -*- coding:UTF-8 -*-
-
+# 3.6.1
 class PascalTriangle:
     def draw(self, n):
         array = []

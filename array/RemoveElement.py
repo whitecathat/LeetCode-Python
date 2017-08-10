@@ -1,4 +1,5 @@
 # -*- coding:UTF-8 -*-
+# 3.6.1
 class RemoveElement:
     def remove(self, oldArray, elem):
         j, n = 0, 0

@@ -1,4 +1,5 @@
 # -*- coding:UTF-8 -*-
+# 3.6.1
 class RemoveDuplicates:
     def remove(self, sortedArray):
         if len(sortedArray) == 0:
